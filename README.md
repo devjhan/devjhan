@@ -70,11 +70,13 @@ AI 서비스와 내부 개발 도구를 구현하면서, 시스템의 실패 조
 
 **Ajou University — Department of Software**
 
-Mar 2021 – Feb 2027 (Expected Graduation)
+Mar 2021 – Feb 2027 (Expected Graduation), GPA 3.63/4.5, 129/140 Credits
 
 ## Certifications
 
+- Engineer Information Processing (정보처리기사)
 - AWS Certified Security – Specialty
 - AWS Certified Solutions Architect – Associate
+- TOPCIT Level 3 — 624 / 1000
 - SQL Developer (SQLD)
-- TOPCIT Level 3 — 624 points
+
